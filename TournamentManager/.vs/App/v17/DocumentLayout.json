@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\tournamentpages\\tournamentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\tournamentpages\\tournamentpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\teampages\\teamstable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\teampages\\teamstable.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\teampages\\teamstable.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\teampages\\teamstable.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\strategypages\\roundrobin.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\strategypages\\roundrobin.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\tournament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\tournamentpages\\addtournament.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\tournamentpages\\addtournament.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\strategypages\\roundrobin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\strategypages\\roundrobin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\services\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:services\\alerts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\tournamentpages\\tournamentinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\tournamentpages\\tournamentinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\teampages\\teamstatscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\teampages\\teamstatscomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\tournamentpages\\tournaments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\tournamentpages\\tournaments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\teampages\\teamdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\teampages\\teamdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\strategypages\\singleelimination.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\strategypages\\singleelimination.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\matchpages\\match.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\matchpages\\match.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\models\\gamestrategies\\gamestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\gamestrategies\\gamestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\models\\gamestrategies\\roundrobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\gamestrategies\\roundrobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\models\\gamestrategies\\singleelimination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\gamestrategies\\singleelimination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\pages\\matchpages\\match.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\matchpages\\match.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\miniprojects\\pv178-project\\tournamentapp\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoundRobin.razor.css",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\StrategyPages\\RoundRobin.razor.css",
+              "RelativeDocumentMoniker": "Pages\\StrategyPages\\RoundRobin.razor.css",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\StrategyPages\\RoundRobin.razor.css",
+              "RelativeToolTip": "Pages\\StrategyPages\\RoundRobin.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T15:50:48.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TournamentService.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Services\\TournamentService.cs",
+              "RelativeDocumentMoniker": "Services\\TournamentService.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Services\\TournamentService.cs",
+              "RelativeToolTip": "Services\\TournamentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:36:08.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tournament.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\Tournament.cs",
+              "RelativeDocumentMoniker": "Models\\Tournament.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\Tournament.cs",
+              "RelativeToolTip": "Models\\Tournament.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:58:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamsTable.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamsTable.razor",
+              "RelativeDocumentMoniker": "Pages\\TeamPages\\TeamsTable.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamsTable.razor",
+              "RelativeToolTip": "Pages\\TeamPages\\TeamsTable.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:51:20.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TeamsTable.razor.css",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamsTable.razor.css",
+              "RelativeDocumentMoniker": "Pages\\TeamPages\\TeamsTable.razor.css",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamsTable.razor.css",
+              "RelativeToolTip": "Pages\\TeamPages\\TeamsTable.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T15:07:44.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TournamentPage.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\TournamentPage.razor",
+              "RelativeDocumentMoniker": "Pages\\TournamentPages\\TournamentPage.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\TournamentPage.razor",
+              "RelativeToolTip": "Pages\\TournamentPages\\TournamentPage.razor",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwEwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T21:46:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:36:23.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:58:35.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTournament.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\AddTournament.razor",
+              "RelativeDocumentMoniker": "Pages\\TournamentPages\\AddTournament.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\AddTournament.razor",
+              "RelativeToolTip": "Pages\\TournamentPages\\AddTournament.razor",
+              "ViewState": "AQIAAB0AAAAAAAAAAIBJwDwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T08:16:02.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoundRobin.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\StrategyPages\\RoundRobin.razor",
+              "RelativeDocumentMoniker": "Pages\\StrategyPages\\RoundRobin.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\StrategyPages\\RoundRobin.razor",
+              "RelativeToolTip": "Pages\\StrategyPages\\RoundRobin.razor",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwCwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T11:43:34.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T13:00:01.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:41:08.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T17:57:33.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Alerts.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Services\\Alerts.cs",
+              "RelativeDocumentMoniker": "Services\\Alerts.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Services\\Alerts.cs",
+              "RelativeToolTip": "Services\\Alerts.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAcwD8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:35:42.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TournamentInfo.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\TournamentInfo.razor",
+              "RelativeDocumentMoniker": "Pages\\TournamentPages\\TournamentInfo.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\TournamentInfo.razor",
+              "RelativeToolTip": "Pages\\TournamentPages\\TournamentInfo.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T21:28:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeamStatsComponent.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamStatsComponent.razor",
+              "RelativeDocumentMoniker": "Pages\\TeamPages\\TeamStatsComponent.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamStatsComponent.razor",
+              "RelativeToolTip": "Pages\\TeamPages\\TeamStatsComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:17:25.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tournaments.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\Tournaments.razor",
+              "RelativeDocumentMoniker": "Pages\\TournamentPages\\Tournaments.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TournamentPages\\Tournaments.razor",
+              "RelativeToolTip": "Pages\\TournamentPages\\Tournaments.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:41:03.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamDetails.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamDetails.razor",
+              "RelativeDocumentMoniker": "Pages\\TeamPages\\TeamDetails.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\TeamPages\\TeamDetails.razor",
+              "RelativeToolTip": "Pages\\TeamPages\\TeamDetails.razor",
+              "ViewState": "AQIAADYAAAAAAAAAAIBJwFYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T12:53:58.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:31:32.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SingleElimination.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\StrategyPages\\SingleElimination.razor",
+              "RelativeDocumentMoniker": "Pages\\StrategyPages\\SingleElimination.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\StrategyPages\\SingleElimination.razor",
+              "RelativeToolTip": "Pages\\StrategyPages\\SingleElimination.razor",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwF8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T07:03:03.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Match.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\MatchPages\\Match.razor",
+              "RelativeDocumentMoniker": "Pages\\MatchPages\\Match.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\MatchPages\\Match.razor",
+              "RelativeToolTip": "Pages\\MatchPages\\Match.razor",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAqwFgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T12:10:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T10:45:13.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Match.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\Match.cs",
+              "RelativeDocumentMoniker": "Models\\Match.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\Match.cs",
+              "RelativeToolTip": "Models\\Match.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:45:24.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\GameStrategies\\GameStrategy.cs",
+              "RelativeDocumentMoniker": "Models\\GameStrategies\\GameStrategy.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\GameStrategies\\GameStrategy.cs",
+              "RelativeToolTip": "Models\\GameStrategies\\GameStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:35:06.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RoundRobin.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\GameStrategies\\RoundRobin.cs",
+              "RelativeDocumentMoniker": "Models\\GameStrategies\\RoundRobin.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\GameStrategies\\RoundRobin.cs",
+              "RelativeToolTip": "Models\\GameStrategies\\RoundRobin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:53:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SingleElimination.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\GameStrategies\\SingleElimination.cs",
+              "RelativeDocumentMoniker": "Models\\GameStrategies\\SingleElimination.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Models\\GameStrategies\\SingleElimination.cs",
+              "RelativeToolTip": "Models\\GameStrategies\\SingleElimination.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:10:42.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Data\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Data\\DbContextFactory.cs",
+              "RelativeToolTip": "Data\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:09:41.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Match.razor.css",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\MatchPages\\Match.razor.css",
+              "RelativeDocumentMoniker": "Pages\\MatchPages\\Match.razor.css",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\Pages\\MatchPages\\Match.razor.css",
+              "RelativeToolTip": "Pages\\MatchPages\\Match.razor.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T12:16:44.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T13:01:41.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\notes.txt",
+              "RelativeDocumentMoniker": "notes.txt",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\Miniprojects\\pv178-project\\TournamentApp\\notes.txt",
+              "RelativeToolTip": "notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-30T08:51:05.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

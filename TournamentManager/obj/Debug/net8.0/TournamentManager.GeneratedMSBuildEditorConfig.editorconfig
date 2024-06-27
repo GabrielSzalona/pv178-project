@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TournamentManager
+build_property.RootNamespace = TournamentManager
+build_property.ProjectDir = C:\Users\szalo\Documents\Miniprojects\pv178-project\TournamentManager\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\szalo\Documents\Miniprojects\pv178-project\TournamentManager
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TeamPages/TeamDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhbVBhZ2VzXFRlYW1EZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TeamPages/TeamStatsComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhbVBhZ2VzXFRlYW1TdGF0c0NvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TournamentPages/AddTournament.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG91cm5hbWVudFBhZ2VzXEFkZFRvdXJuYW1lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TournamentPages/TournamentInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG91cm5hbWVudFBhZ2VzXFRvdXJuYW1lbnRJbmZvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TournamentPages/Tournaments.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG91cm5hbWVudFBhZ2VzXFRvdXJuYW1lbnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/TournamentManager.razor]
+build_metadata.AdditionalFiles.TargetPath = VG91cm5hbWVudE1hbmFnZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/MatchPages/Match.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWF0Y2hQYWdlc1xNYXRjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kl63chwvwz
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/StrategyPages/RoundRobin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYXRlZ3lQYWdlc1xSb3VuZFJvYmluLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-gpj3ungrgq
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/StrategyPages/SingleElimination.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RyYXRlZ3lQYWdlc1xTaW5nbGVFbGltaW5hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-n2xafh7o38
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TeamPages/TeamsTable.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhbVBhZ2VzXFRlYW1zVGFibGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7hujnmonij
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/TournamentPages/TournamentPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG91cm5hbWVudFBhZ2VzXFRvdXJuYW1lbnRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-0v5x56ozfz
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-l62m77t7ps
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-4n4381srns
+
+[C:/Users/szalo/Documents/Miniprojects/pv178-project/TournamentManager/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
