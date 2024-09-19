@@ -1,8 +1,0 @@
-﻿.team-row {
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-    .team-row:hover {
-        background-color: #EDF2F3;
-    }

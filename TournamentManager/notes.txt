@@ -1,2 +1,0 @@
-﻿teams members count only of power of 2
-
