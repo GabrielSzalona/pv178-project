@@ -1,0 +1,37 @@
+﻿@inject NavigationManager Navigation
+@using TournamentApp.Models
+
+<h4>Teams</h4>
+<p class="text-muted">Click on a team row to view more details.</p>
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>W</th>
+			<th>L</th>
+			<th>P</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var team in Tournament.Teams.OrderByDescending(x => x.Wins).ThenByDescending(x => x.Points))
+		{
+			<tr class="team-row" @onclick="() => EditTeam(team)">
+				<td>@team.Name</td>
+				<td>@team.Wins</td>
+				<td>@team.Losses</td>
+				<td>@team.Points</td>
+			</tr>
+		}
+	</tbody>
+</table>
+
+
+@code {
+	[Parameter]
+	public Tournament Tournament { get; set; }
+
+	private void EditTeam(Team team)
+	{
+		Navigation.NavigateTo($"/team/{Tournament.TournamentId}/{team.TeamId}");
+	}
+}

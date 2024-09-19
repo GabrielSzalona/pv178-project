@@ -1,0 +1,46 @@
+
+.round-robin-container[b-7xen1lsctn] {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.match-card[b-7xen1lsctn] {
+    width: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    color: #000;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+    .match-card:hover[b-7xen1lsctn] {
+        background-color: #f1f1f1;
+        border: 2px solid #0d6efd;
+        box-shadow: 0 0 10px #0d6efd;
+        transition: background-color 0.3s ease, border 0.3s ease, box-shadow 0.3s ease;
+    }
+
+.match-team[b-7xen1lsctn] {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+
+.team-name[b-7xen1lsctn] {
+    font-weight: normal;
+}
+
+.team-score[b-7xen1lsctn] {
+    font-weight: normal;
+}
+
+.winner[b-7xen1lsctn] {
+    background-color: #28a745;
+    color: #fff;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 4px;
+}

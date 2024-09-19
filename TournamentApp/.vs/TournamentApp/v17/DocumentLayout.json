@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:services\\tournamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\models\\gamestrategies\\roundrobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:models\\gamestrategies\\roundrobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\pages\\strategypages\\roundrobin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\strategypages\\roundrobin.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\pages\\strategypages\\singleelimination.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\strategypages\\singleelimination.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\pages\\strategypages\\singleelimination.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\strategypages\\singleelimination.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|c:\\users\\szalo\\documents\\muni\\sem4\\pv178\\tournamentapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D998D69-FC7B-48E3-B1FC-4206FAA7193B}|TournamentApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoundRobin.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Models\\GameStrategies\\RoundRobin.cs",
+              "RelativeDocumentMoniker": "Models\\GameStrategies\\RoundRobin.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Models\\GameStrategies\\RoundRobin.cs",
+              "RelativeToolTip": "Models\\GameStrategies\\RoundRobin.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:35:00.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SingleElimination.razor.css",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\StrategyPages\\SingleElimination.razor.css",
+              "RelativeDocumentMoniker": "Pages\\StrategyPages\\SingleElimination.razor.css",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\StrategyPages\\SingleElimination.razor.css",
+              "RelativeToolTip": "Pages\\StrategyPages\\SingleElimination.razor.css",
+              "ViewState": "AQIAADQAAAAAAAAAAAAuwD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-17T14:23:56.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SingleElimination.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\StrategyPages\\SingleElimination.razor",
+              "RelativeDocumentMoniker": "Pages\\StrategyPages\\SingleElimination.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\StrategyPages\\SingleElimination.razor",
+              "RelativeToolTip": "Pages\\StrategyPages\\SingleElimination.razor",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAjwCUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T14:23:51.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAjwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:13:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:11:41.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:11:36.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\notes.txt",
+              "RelativeDocumentMoniker": "notes.txt",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\notes.txt",
+              "RelativeToolTip": "notes.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-08T15:11:34.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TournamentService.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Services\\TournamentService.cs",
+              "RelativeDocumentMoniker": "Services\\TournamentService.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Services\\TournamentService.cs",
+              "RelativeToolTip": "Services\\TournamentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:41:26.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoundRobin.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\StrategyPages\\RoundRobin.razor",
+              "RelativeDocumentMoniker": "Pages\\StrategyPages\\RoundRobin.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\StrategyPages\\RoundRobin.razor",
+              "RelativeToolTip": "Pages\\StrategyPages\\RoundRobin.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T14:34:46.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIBJwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:11:11.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T15:06:39.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T15:00:12.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-08T15:00:07.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\szalo\\Documents\\MUNI\\Sem4\\pv178\\TournamentApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T11:28:05.285Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+﻿<div class="mt-3">
+    <h4>Team Stats</h4>
+    <div class="card">
+        <div class="card-body">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="card bg-light mb-3">
+                        <div class="card-header">Wins</div>
+                        <div class="card-body">
+                            <p class="card-text">@Wins</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card bg-light mb-3">
+                        <div class="card-header">Losses</div>
+                        <div class="card-body">
+                            <p class="card-text">@Losses</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card bg-light mb-3">
+                        <div class="card-header">Points</div>
+                        <div class="card-body">
+                            <p class="card-text">@Points</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+    [Parameter]
+    public int Wins { get; set; }
+    
+    [Parameter]
+    public int Losses { get; set; }
+
+    [Parameter]
+    public int Points { get; set; }
+
+}
